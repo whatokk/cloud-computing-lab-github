@@ -9,4 +9,4 @@
 
 ## Results
 
-The page was personalized with student name `whatokk`, a light background color, blue status style, and an external GitHub Actions image. GitHub Pages was configured with workflow deployment, and the workflow completed successfully.
+The page was personalized with student name `姜丞骏`, a light background color, blue status style, and an external GitHub Actions image. GitHub Pages was configured with workflow deployment, and the workflow completed successfully.
